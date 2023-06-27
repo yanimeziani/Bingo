@@ -3,10 +3,10 @@ namespace DepartTP1
 {
     public class CardCell
     {
-        private byte value;
+        private int value;
         private bool isMarked;
 
-        public byte Value
+        public int Value
         {
             get { return this.value; }
             set { this.value = value; }
@@ -18,17 +18,22 @@ namespace DepartTP1
             set { this.isMarked = value; }
         }
 
-        public CardCell(byte value)
+        public CardCell(int value)
         {
             this.Value = value;
         }
 
-        public void MarkCell(byte number)
+        public void MarkCell(int number)
         {
             if(this.Value == number)
             {
                 this.IsMarked = true;
             }
+        }
+
+        public override string ToString()
+        {
+            return this.Value.ToString();
         }
     }
 }

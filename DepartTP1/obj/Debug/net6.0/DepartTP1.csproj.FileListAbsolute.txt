@@ -1,0 +1,15 @@
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/bin/Debug/net6.0/DepartTP1
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/bin/Debug/net6.0/DepartTP1.deps.json
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/bin/Debug/net6.0/DepartTP1.runtimeconfig.json
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/bin/Debug/net6.0/DepartTP1.dll
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/bin/Debug/net6.0/DepartTP1.pdb
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.csproj.AssemblyReference.cache
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.AssemblyInfoInputs.cache
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.AssemblyInfo.cs
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.csproj.CoreCompileInputs.cache
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.dll
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/refint/DepartTP1.dll
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.pdb
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/DepartTP1.genruntimeconfig.cache
+/Users/yanimeziani/Projects/TP1/DepartTP1/DepartTP1/obj/Debug/net6.0/ref/DepartTP1.dll
