@@ -107,7 +107,7 @@ namespace DepartTP1
             return sum;
         }
 
-        // Code pris sur stackoverflow
+        // Code pris en partie sur stackoverflow (Le stringbuilder)
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -117,7 +117,11 @@ namespace DepartTP1
                 for (int column = 0; column < CardCells.GetLength(1); column++)
                 {
                     sb.Append(CardCells[row, column]);
-                    sb.Append("  ");
+                    if(CardCells[row, column].IsMarked) {
+                        sb.Append("+");
+                    }
+                        
+                    sb.Append("\t");
                 }
 
                 sb.AppendLine();
